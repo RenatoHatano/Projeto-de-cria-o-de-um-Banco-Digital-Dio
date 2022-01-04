@@ -4,6 +4,15 @@ Criando um Banco Digital com Java e Orientação a Objetos.
 
 Reforce seu conhecimento em Programação Orientada a Objetos (POO) em Java com um desafio de projeto totalmente prático. Para isso, os pilares da orientação a objetos são devidamente explorados no contexto bancário, onde o expert implementa um projeto de referência (disponibilizado no GitHub) de forma prática e interativa. Sendo assim, você poderá desenvolver sua capacidade de abstração reproduzindo essa solução. Além disso, caso queira ir além, implemente suas próprias evoluções e melhorias ;)
 
+
+## Desafio
+
+Conhecemos nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário: “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), visto que existem como características de depósito, saque e transferência (entre contas da própria instituição).”
+<br/>
+<br/>
+
+![ggg](https://user-images.githubusercontent.com/89813760/147996727-cf4bbc43-79a6-4b08-8d3a-2b25760408b2.png)
+
 ## Principais Conceitos
 
 ### Abstração
@@ -20,8 +29,7 @@ Permite que você defina uma classe filha que reutiliza (herda), estende ou modi
 Capacidade de um objeto poder ser referenciado de várias formas, ou seja, é capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica.
 Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele.
 
-## Desafio
+## Tecnologia
+- Java
 
-Conhecemos nosso conhecimento no domínio bancário, iremos abstrair uma solução Orientada a Objetos em Java. Para isso, vamos interpretar o seguinte cenário: “Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), visto que existem como características de depósito, saque e transferência (entre contas da própria instituição).”
 
-![ggg](https://user-images.githubusercontent.com/89813760/147996727-cf4bbc43-79a6-4b08-8d3a-2b25760408b2.png)
